@@ -1,0 +1,22 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "talkzapp-3922f",
+          "appId": "1:239302770164:android:f1e8bf41b8ab7a6104cda1",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "talkzapp-3922f",
+          "configurations": {
+            "android": "1:239302770164:android:f1e8bf41b8ab7a6104cda1",
+            "ios": "1:239302770164:ios:ab7fbaec3cc14a1a04cda1"
+          }
+        }
+      }
+    }
+  }
+}

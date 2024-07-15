@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239302770164",
+    "project_id": "talkzapp-3922f",
+    "storage_bucket": "talkzapp-3922f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239302770164:android:f1e8bf41b8ab7a6104cda1",
+        "android_client_info": {
+          "package_name": "com.example.talkzapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdY9Y8HSfyepuYPi6pPEk19FV-KO5B4J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
